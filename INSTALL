@@ -1,0 +1,9 @@
+Building Fog_Hill
+
+See doc/readme-qt.rst for instructions on building Fog_Hill QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Fog_Hill.
+
+See doc/build-*.txt for instructions on building Fog_Hilld,
+the intended-for-services, no-graphical-interface, reference
+implementation of Fog_Hill.
