@@ -1,6 +1,6 @@
-<b>#Fog Hill Coin Specification</b>
+<b>#FHC Specification</b>
 
-Coin Name : Fog Hill
+Coin Name : FHC
 
 Ticker : FOG
 
